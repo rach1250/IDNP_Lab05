@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:width="100dp"
+    android:height="100dp"
+    android:viewportHeight="100.0"
+    android:viewportWidth="100.0"
+    tools:ignore="MissingDefaultResource">
+    <group android:name="thing">
+        <path
+            android:name="M"
+            android:pathData="M 21 19 L 29 19 M 29 19 L 37 45 M 37 45 L 45 19 M 45 19 50 19
+            M 50 19 L 49 70 M 49 70 L 42 70 M 43 70 L 43 45 M 43 45 L 39 53 M 39 53 L 33 53
+            M 33 53 L 30 45 M 30 45 L 30 70 M 30 69 L 21 69 M 21 70 L 21 19"
+            android:strokeColor="#00a2ed"
+            android:strokeWidth="1" />
+        <path
+            android:name="I"
+            android:pathData="M 66 19 L 66 70 M 66 69 L 73 69 M 73 69 L 73 19 M 73 19 L 66 19"
+            android:strokeColor="#00a2ed"
+            android:strokeWidth="1" />
+    </group>
+</vector>

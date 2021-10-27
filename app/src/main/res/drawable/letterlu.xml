@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:width="100dp"
+    android:height="100dp"
+    android:viewportHeight="100.0"
+    android:viewportWidth="100.0"
+    tools:ignore="MissingDefaultResource">
+    <group android:name="thing">
+        <path
+            android:name="L"
+            android:pathData="M 20 21 L 20 66 M 20 66 L 42 66 M 42 66 L 42 57
+                              M 42 57 L 27 57 M 27 57 L 27 20 M 27 21 L 20 21"
+            android:strokeColor="#D5E071"
+            android:strokeWidth="1" />
+
+        <path
+            android:name="U"
+            android:pathData="M 48 22 L 54 22
+                              M 54 21 C 54 29 54 43 54 43 C 54 43 58 56 58 56 C 58 56 64 58 64 58 C 64 58 67 55 67 55
+                              C 67 55 69 43 69 43 C 69 43 68 21 68 21 C 68 21 75 21 75 21 C 75 21 75 42 75 42 C 75 42
+                              73 56 73 56 C 73 56 71 62 71 62 C 71 62 65 65 65 65 C 65 65 57 63 57 63 C 57 63 53 57 53 57
+                              C 53 57 50 44 50 44 C 50 44 49 21 49 21"
+            android:strokeColor="#D5E071"
+            android:strokeWidth="1" />
+    </group>
+</vector>

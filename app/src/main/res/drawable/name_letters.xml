@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="100dp"
+    android:height="100dp"
+    android:viewportHeight="100.0"
+    android:viewportWidth="100.0">
+    <group android:name="thing">
+        <!--<path
+            android:name="curves"
+            android:pathData="M 25 10 L 12 10 M 25 10 L 25 30 M 25 30 C 20 35 15 30 12 25"
+            android:strokeColor="#FFF"
+            android:strokeWidth="1" />
+            L 12 10 M 25 10 L 25 30 M 25 30 C 20 35 15 30 12 25
+
+
+        <path
+            android:name="s"
+            android:pathData="M 25 10 L 20 10"
+            android:strokeColor="#FFF"
+            android:strokeWidth="1" />
+
+        <path
+            android:name="curves"
+            android:pathData="M 30 10 L 30 30 M 30 10 C 45 15 45 25 30 30"
+            android:strokeColor="@android:color/holo_red_dark"
+            android:strokeWidth="1" />
+
+        <path
+            android:name="L"
+            android:pathData="M 20 20 L 20 0 M 20 20 L 30 20"
+            android:strokeColor="#FFF"
+            android:strokeWidth="1" />
+
+        <path
+            android:name="A"
+            android:pathData="M 35 20 L 40 0 M 45 20 L 40 0 M 37 10 L 42 10"
+            android:strokeColor="#FFF"
+            android:strokeWidth="1" />-->
+        <path
+            android:name="S parte arriba"
+            android:pathData="M 10 20 C 10 10 25 10 25 20"
+            android:strokeColor="@color/teal_200"
+            android:strokeWidth="1" />
+
+        <path
+            android:name="Sd"
+            android:pathData="M 20 10 C 10 10 10 25 20 25"
+            android:strokeColor="#000"
+            android:strokeWidth="1" />
+
+        <path
+            android:name="S medio"
+            android:pathData="M 10 -20 C 2 10 25 10 25 20 "
+            android:strokeColor="#FFF"
+            android:strokeWidth="1" />
+
+
+        <!--<path
+            android:fillColor="#E1261D"
+            android:pathData="M20,0
+        A20,20 0 1,1 20, 40Z" />
+        <path
+            android:name="C"
+            android:pathData="M 25 0 C -25 12.5 22 40 25 30"
+            android:strokeColor="#FFF"
+            android:strokeWidth="1" />
+
+
+        <!-left half circle
+        <path
+            android:strokeColor="#E1261D"
+            android:strokeWidth="1"
+            android:pathData="M20,40
+        A20,20 0 1,1 20,0Z" />-->
+
+    </group>
+</vector>
